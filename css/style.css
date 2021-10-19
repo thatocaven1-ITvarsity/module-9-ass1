@@ -1,0 +1,52 @@
+body{
+    background-color: red;
+    font-family: "Raleway",sans-serif;
+    text-align: center;
+    
+}
+.Container{
+    width: 100%;
+}
+p{
+  color: aliceblue;
+    font-size: 10vw;
+}
+#clock{
+    width: 100%;
+    text-align: center;
+}
+#progressBarContainer{
+    transform: rotate(180deg);
+}
+
+.buttonSection{
+    width: 100%;
+    padding-top: 3rem;
+}
+.roundButton{
+    border-radius: 50%;
+    border-color: aliceblue;
+    border: 0;
+    width: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+    
+}
+.button1{
+    float: left;
+    width: 49%;
+    
+}
+.button2{
+    float: right;
+    width: 49%;
+}
+.selector{
+    background-color: aliceblue;
+    padding: .8rem 1.4rem .9rem .8rem;
+    width: 30%;
+    border-radius: .5rem;
+    font-size: 1rem;
+   
+    text-align: center;
+}
